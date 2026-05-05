@@ -1,0 +1,4 @@
+Bootstrap:
+    col-lg-6 d-none d-lg-block : 
+
+    order, order-lg, order-sm : gérer l'ordre pendant la responsivité
